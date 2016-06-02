@@ -1,3 +1,3 @@
-# colors
+Colors settings
 
-Quick and pretty colors settings for PyMOL, Latex, and R.
+Quick and pretty colors settings available for PyMOL, Latex, and R.
