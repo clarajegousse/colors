@@ -21,14 +21,12 @@ aqua <- "#33A9D7"
 Aqua <- "#0094CD"
 jeans <- "#4567A9"
 Jeans <- "#164194"
-# lavender <- "#AC92EC"
-# Lavender <- "#967ADC"
-remove(Lavender,lavender)
+lavender <- "#AC92EC"
+Lavender <- "#967ADC"
 eggplant <- "#8C5388"
 Eggplant <- "#6F286A"
-# rose <- "#EC87C0"
-# Rose <- "#D770AD"
-remove(Rose,rose)
+rose <- "#EC87C0"
+Rose <- "#D770AD"
 lightgrey <- "#D6D5D5"
 LightGrey <- "#B8B7B7"
 mediumgrey <- "#8D8C8C"
@@ -38,3 +36,15 @@ DarkGrey <- "#383838"
 chocolate <- "#A8714D"
 Chocolate <- "#9C5D34"
 Skin <- "#F1CFAE"
+
+frontiers.palette <- c(Grapefruit, Bittersweet,
+  Orange, Sunflower, Grass, Mint, Tree, Aqua, Jeans, Eggplant,
+  LightGrey, MediumGrey, DarkGrey, Chocolate, Skin)
+
+# archaea.phyla <- c("Crenarchaeota", "Thermoplasmatota",
+# 	"Nanoarchaeota", "Halobacterota", "Euryarchaeota")
+# archaea.col <- colorRampPalette(Eggplant, Lavender)(length(archaea.phyla))
+
+# cbind(archaea.phyla, archaea.col, )
+
+show_col(phylum.col )

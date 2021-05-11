@@ -15,6 +15,8 @@ set_color Sunflower = [246, 187, 66]
 set_color grass = [160, 212, 104] 
 set_color Grass = [140, 193, 82] 
 
+set_color Emerald = [46, 204, 113]
+set_color Nephritis = [39, 174, 96]
 set_color mint = [72, 207, 173] 
 set_color Mint = [55, 188, 155] 
 
