@@ -40,11 +40,3 @@ Skin <- "#F1CFAE"
 frontiers.palette <- c(Grapefruit, Bittersweet,
   Orange, Sunflower, Grass, Mint, Tree, Aqua, Jeans, Eggplant,
   LightGrey, MediumGrey, DarkGrey, Chocolate, Skin)
-
-# archaea.phyla <- c("Crenarchaeota", "Thermoplasmatota",
-# 	"Nanoarchaeota", "Halobacterota", "Euryarchaeota")
-# archaea.col <- colorRampPalette(Eggplant, Lavender)(length(archaea.phyla))
-
-# cbind(archaea.phyla, archaea.col, )
-
-show_col(phylum.col )
